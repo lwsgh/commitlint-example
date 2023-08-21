@@ -1,4 +1,4 @@
-/** @type {import('cz-git').UserConfig} */
+/** @type {import('czg').UserConfig} */
 module.exports = {
   // @see: https://commitlint.js.org/#/reference-rules
   rules: {
